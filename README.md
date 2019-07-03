@@ -1,2 +1,2 @@
-# Udacity-AIPND
-Udacity AI Programming with Python Nanodegree 
+# Image Classifier Project for Udacity AI Programming with Python Nanodegree
+
