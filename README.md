@@ -4,7 +4,12 @@ This is image classifier project for Udacity's AI Programming with Python Nanode
 
 # Project assets:
 
-Image Classifier Project.ipynb  - Jupyter Notebook
+Image Classifier Project.ipynb  - Jupyter Notebook.
+
 Image Classifier Project.html  - HTML export of the Jupyter Notebook above.
+
 train.py - command line application to train a new model on a data set.
+
 predict.py - command line application to predict flower name from an image.
+
+
