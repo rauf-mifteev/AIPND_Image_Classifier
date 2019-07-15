@@ -25,11 +25,11 @@ You can install everything you need to run this project with [Anaconda](https://
 ## Installing
 Clone this repository:
 
-`git clone https://github.com/rauf-mifteev/DLND_Face_Generation.git`
+`git clone https://github.com/rauf-mifteev/AIPND_Image_Classifier.git`
 
 ## Run the Code
-Navigate to the cloned directories location and start jupyter notebook with dlnd_face_generation.ipynb:
+Navigate to the cloned directories location and start jupyter notebook with aipnd_image_classifier.ipynb:
 
-`jupyter notebook dlnd_face_generation.ipynb`
+`jupyter notebook aipnd_image_classifier.ipynb`
 
 
